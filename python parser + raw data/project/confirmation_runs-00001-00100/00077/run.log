@@ -1,0 +1,53 @@
+CURRENT GAME STATE
+
+
+| 0 13  2  4 |
+|12 14  6  9 |
+|15  1 10  3 |
+|11  5  8  7 |
+
+CURRENT SCORE: 1.30003
+
+NEIGHBOUR 0
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 0: -1
+
+NEIGHBOUR 1
+
+
+|13  0  2  4 |
+|12 14  6  9 |
+|15  1 10  3 |
+|11  5  8  7 |
+
+SCORE OF NEIGHBOUR 1: 0.848345
+
+NEIGHBOUR 2
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 2: -1
+
+NEIGHBOUR 3
+
+
+|12 13  2  4 |
+| 0 14  6  9 |
+|15  1 10  3 |
+|11  5  8  7 |
+
+SCORE OF NEIGHBOUR 3: 0.614979
+
+----------------------------------------
+FOUND LOCAL MAXIMUM
+
+| 0 13  2  4 |
+|12 14  6  9 |
+|15  1 10  3 |
+|11  5  8  7 |
+With Score : 1.30003
+----------------------------------------

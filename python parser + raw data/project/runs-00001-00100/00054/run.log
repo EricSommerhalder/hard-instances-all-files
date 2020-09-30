@@ -1,0 +1,153 @@
+CURRENT GAME STATE
+
+
+|12 11  0  8 |
+|10  2 13 15 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+CURRENT SCORE: 0.54021
+
+NEIGHBOUR 0
+
+
+|12  0 11  8 |
+|10  2 13 15 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 0: 0.493412
+
+NEIGHBOUR 1
+
+
+|12 11  8  0 |
+|10  2 13 15 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 1: 0.816471
+
+NEIGHBOUR 2
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 2: -1
+
+NEIGHBOUR 3
+
+
+|12 11 13  8 |
+|10  2  0 15 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 3: 0.199315
+
+NEIGBOUR 1 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|12 11  8  0 |
+|10  2 13 15 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+CURRENT SCORE: 0.816471
+
+NEIGHBOUR 0
+
+
+|12 11  0  8 |
+|10  2 13 15 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 0: 0.513684
+
+NEIGHBOUR 1
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 1: -1
+
+NEIGHBOUR 2
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 2: -1
+
+NEIGHBOUR 3
+
+
+|12 11  8 15 |
+|10  2 13  0 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 3: 2.59393
+
+NEIGBOUR 3 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|12 11  8 15 |
+|10  2 13  0 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+CURRENT SCORE: 2.59393
+
+NEIGHBOUR 0
+
+
+|12 11  8 15 |
+|10  2  0 13 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 0: 0.959703
+
+NEIGHBOUR 1
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 1: -1
+
+NEIGHBOUR 2
+
+
+|12 11  8  0 |
+|10  2 13 15 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 2: 0.804723
+
+NEIGHBOUR 3
+
+
+|12 11  8 15 |
+|10  2 13  3 |
+| 5  4  7  0 |
+| 6  9 14  1 |
+
+SCORE OF NEIGHBOUR 3: 1.72105
+
+----------------------------------------
+FOUND LOCAL MAXIMUM
+
+|12 11  8 15 |
+|10  2 13  0 |
+| 5  4  7  3 |
+| 6  9 14  1 |
+With Score : 2.59393
+----------------------------------------

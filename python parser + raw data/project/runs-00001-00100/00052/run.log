@@ -1,0 +1,209 @@
+CURRENT GAME STATE
+
+
+|10  8  0 12 |
+| 3  7  6  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+CURRENT SCORE: 7.31643
+
+NEIGHBOUR 0
+
+
+|10  0  8 12 |
+| 3  7  6  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 0: 11.9821
+
+NEIGHBOUR 1
+
+
+|10  8 12  0 |
+| 3  7  6  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 1: 3.47199
+
+NEIGHBOUR 2
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 2: -1
+
+NEIGHBOUR 3
+
+
+|10  8  6 12 |
+| 3  7  0  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 3: 18.4113
+
+NEIGBOUR 3 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|10  8  6 12 |
+| 3  7  0  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+CURRENT SCORE: 18.4113
+
+NEIGHBOUR 0
+
+
+|10  8  6 12 |
+| 3  0  7  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 0: 10.6683
+
+NEIGHBOUR 1
+
+
+|10  8  6 12 |
+| 3  7  2  0 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 1: 27.3322
+
+NEIGHBOUR 2
+
+
+|10  8  0 12 |
+| 3  7  6  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 2: 5.99145
+
+NEIGHBOUR 3
+
+
+|10  8  6 12 |
+| 3  7  4  2 |
+| 1 14  0 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 3: 6.30954
+
+NEIGBOUR 1 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|10  8  6 12 |
+| 3  7  2  0 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+CURRENT SCORE: 27.3322
+
+NEIGHBOUR 0
+
+
+|10  8  6 12 |
+| 3  7  0  2 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 0: 16.75
+
+NEIGHBOUR 1
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 1: -1
+
+NEIGHBOUR 2
+
+
+|10  8  6  0 |
+| 3  7  2 12 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 2: 17.3602
+
+NEIGHBOUR 3
+
+
+|10  8  6 12 |
+| 3  7  2 11 |
+| 1 14  4  0 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 3: 34.8671
+
+NEIGBOUR 3 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|10  8  6 12 |
+| 3  7  2 11 |
+| 1 14  4  0 |
+|15 13  9  5 |
+
+CURRENT SCORE: 34.8671
+
+NEIGHBOUR 0
+
+
+|10  8  6 12 |
+| 3  7  2 11 |
+| 1 14  0  4 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 0: 11.4424
+
+NEIGHBOUR 1
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 1: -1
+
+NEIGHBOUR 2
+
+
+|10  8  6 12 |
+| 3  7  2  0 |
+| 1 14  4 11 |
+|15 13  9  5 |
+
+SCORE OF NEIGHBOUR 2: 24.9244
+
+NEIGHBOUR 3
+
+
+|10  8  6 12 |
+| 3  7  2 11 |
+| 1 14  4  5 |
+|15 13  9  0 |
+
+SCORE OF NEIGHBOUR 3: 10.7047
+
+----------------------------------------
+FOUND LOCAL MAXIMUM
+
+|10  8  6 12 |
+| 3  7  2 11 |
+| 1 14  4  0 |
+|15 13  9  5 |
+With Score : 34.8671
+----------------------------------------

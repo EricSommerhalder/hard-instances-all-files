@@ -1,0 +1,409 @@
+CURRENT GAME STATE
+
+
+| 0  1  9  7 |
+|11 13  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 0.0294328
+
+NEIGHBOUR 0
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 0: -1
+
+NEIGHBOUR 1
+
+
+| 1  0  9  7 |
+|11 13  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 1: 0.0242987
+
+NEIGHBOUR 2
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 2: -1
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+| 0 13  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 3: 0.0506291
+
+NEIGBOUR 3 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|11  1  9  7 |
+| 0 13  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 0.0506291
+
+NEIGHBOUR 0
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 0: -1
+
+NEIGHBOUR 1
+
+
+|11  1  9  7 |
+|13  0  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 1: 0.116732
+
+NEIGHBOUR 2
+
+
+| 0  1  9  7 |
+|11 13  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 2: 0.0265561
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+|14 13  5  3 |
+| 0 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 3: 0.0648303
+
+NEIGBOUR 1 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|11  1  9  7 |
+|13  0  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 0.116732
+
+NEIGHBOUR 0
+
+
+|11  1  9  7 |
+| 0 13  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 0: 0.0472635
+
+NEIGHBOUR 1
+
+
+|11  1  9  7 |
+|13  5  0  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 1: 0.241058
+
+NEIGHBOUR 2
+
+
+|11  0  9  7 |
+|13  1  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 2: 0.138071
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+|13 12  5  3 |
+|14  0  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 3: 0.201465
+
+NEIGBOUR 1 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|11  1  9  7 |
+|13  5  0  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 0.241058
+
+NEIGHBOUR 0
+
+
+|11  1  9  7 |
+|13  0  5  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 0: 0.108811
+
+NEIGHBOUR 1
+
+
+|11  1  9  7 |
+|13  5  3  0 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 1: 0.354226
+
+NEIGHBOUR 2
+
+
+|11  1  0  7 |
+|13  5  9  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 2: 0.395774
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12  0  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 3: 0.545087
+
+NEIGBOUR 3 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12  0  2 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 0.545087
+
+NEIGHBOUR 0
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14  0 12  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 0: 0.277897
+
+NEIGHBOUR 1
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12  2  0 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 1: 0.720341
+
+NEIGHBOUR 2
+
+
+|11  1  9  7 |
+|13  5  0  3 |
+|14 12  4  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 2: 0.250412
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12 10  2 |
+| 8  6  0 15 |
+
+SCORE OF NEIGHBOUR 3: 0.371088
+
+NEIGBOUR 1 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12  2  0 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 0.720341
+
+NEIGHBOUR 0
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12  0  2 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 0: 0.543646
+
+NEIGHBOUR 1
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 1: -1
+
+NEIGHBOUR 2
+
+
+|11  1  9  7 |
+|13  5  4  0 |
+|14 12  2  3 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 2: 1.23012
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12  2 15 |
+| 8  6 10  0 |
+
+SCORE OF NEIGHBOUR 3: 0.242278
+
+NEIGBOUR 2 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|11  1  9  7 |
+|13  5  4  0 |
+|14 12  2  3 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 1.23012
+
+NEIGHBOUR 0
+
+
+|11  1  9  7 |
+|13  5  0  4 |
+|14 12  2  3 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 0: 0.633117
+
+NEIGHBOUR 1
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 1: -1
+
+NEIGHBOUR 2
+
+
+|11  1  9  0 |
+|13  5  4  7 |
+|14 12  2  3 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 2: 1.83353
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+|13  5  4  3 |
+|14 12  2  0 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 3: 0.724046
+
+NEIGBOUR 2 CHOSEN
+
+--------------------------------------------
+CURRENT GAME STATE
+
+
+|11  1  9  0 |
+|13  5  4  7 |
+|14 12  2  3 |
+| 8  6 10 15 |
+
+CURRENT SCORE: 1.83353
+
+NEIGHBOUR 0
+
+
+|11  1  0  9 |
+|13  5  4  7 |
+|14 12  2  3 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 0: 1.06431
+
+NEIGHBOUR 1
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 1: -1
+
+NEIGHBOUR 2
+
+
+ NO STATE 
+
+SCORE OF NEIGHBOUR 2: -1
+
+NEIGHBOUR 3
+
+
+|11  1  9  7 |
+|13  5  4  0 |
+|14 12  2  3 |
+| 8  6 10 15 |
+
+SCORE OF NEIGHBOUR 3: 1.14148
+
+----------------------------------------
+FOUND LOCAL MAXIMUM
+
+|11  1  9  0 |
+|13  5  4  7 |
+|14 12  2  3 |
+| 8  6 10 15 |
+With Score : 1.83353
+----------------------------------------
